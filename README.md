@@ -7,3 +7,10 @@ Welcome to my DSA repository! This project is a curated collection of Python scr
 -----------
 
 This repository serves as a technical showcase of my ability to implement complex logic and efficient data structures. Each script is designed for clarity, efficiency, and adherence to Pythonic coding standards.
+
+📂 Project Structure
+--------------------
+
+### 1\. Sorting Algorithms
+
+I have implemented several classic sorting algorithms, providing a deep dive into time and space complexity trade-offs.
